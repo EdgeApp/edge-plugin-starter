@@ -17,6 +17,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-shim {
+  height: 10px
+}
 
 .App-link {
   color: #61dafb;
